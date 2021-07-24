@@ -6,6 +6,6 @@
 
 ### Projects ..
 
-1. Django Framework with Flutter Framework
+1. Django Framework with Flutter
 
 ..
